@@ -7,3 +7,5 @@ dat <- mpg
 plot(mpg$cyl, mpg$hwy)
 
 # test comment
+
+#git config --global user.name "Jane Doe"
